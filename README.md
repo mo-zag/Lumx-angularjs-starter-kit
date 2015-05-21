@@ -27,7 +27,7 @@ npm install
 
 ### Starter kit commands
 
-#### Run the server on http//:localhost:8000
+#### Run the server on http://localhost:8000
 
 ```
 grunt connect
