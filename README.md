@@ -25,8 +25,9 @@ Once you have installed these dependancies, Download Lumx-angularjs-starter-kit 
 npm install
 ```
 
+### Starter kit commands
 
-#### Run the server on http:localhost:8000
+#### Run the server on http//:localhost:8000
 
 ```
 grunt connect
