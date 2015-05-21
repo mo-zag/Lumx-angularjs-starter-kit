@@ -8,7 +8,7 @@ Lumx, Angularjs, Sass, Coffeescript, Grunt, Bower starter kit
 #### How to install
 Head over to [nodejs](https://nodejs.org) for instruction on how to install on your relevant OS. Once you have installed node run the following commands. 
 
-> NOTE: on some systems you may need to be root to install npm globally as -g stands for globally install this npm. sudo npm install -g modulename* 
+> NOTE: on some systems you may need to be root to install npm globally as -g stands for globally install this npm. **sudo npm install -g modulename**
 
 ```
 npm install -g grunt-cli
