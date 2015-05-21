@@ -24,7 +24,7 @@ Once you have installed these dependancies, Download Lumx-angularjs-starter-kit 
 ```
 npm install
 ```
-
+Visit [Lumx](http://ui.lumapps.com/) for docs and place these inside the templates folder.
 ### Starter kit commands
 
 #### Run the server on http://localhost:8000
