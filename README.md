@@ -1,4 +1,6 @@
 # Lumx-angularjs-starter-kit
+
+[![Join the chat at https://gitter.im/mo-zag/Lumx-angularjs-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mo-zag/Lumx-angularjs-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Lumx, Angularjs, Sass, Coffeescript, Grunt, Bower starter kit
 
 #### Dependancies:
